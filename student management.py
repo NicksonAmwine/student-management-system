@@ -1,6 +1,5 @@
 # STUDENT MANAGEMENT SYSTEM
 # NAME: AMWINE NICKSON
-# REG NO: 20/U/0086
 
 # Defining a class for the student object
 class Student:
